@@ -3,8 +3,7 @@ Project created with the objective of automating interactions with the web.
 
 # English guide:
 
-# Target Site
-It was developed to be used specifically on the "vivastreet.co.uk" website, interacting with ad renewal buttons. If you want to test it or have the same need as my client, just download the script and make some adaptations that will be described below.
+# Target Site It was developed to be used specifically on the "vivastreet.co.uk" website, interacting with ad renewal buttons. If you want to test it or have the same need as my client, just download the script and make some adaptations that will be described below.
 
 # Technologies used
 In order for the project to be fully functional, the following technologies were used:
